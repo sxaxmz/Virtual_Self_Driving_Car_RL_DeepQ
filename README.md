@@ -5,7 +5,7 @@ Q-Learning creates a matrix of rewards that the agent can learn from to learn th
 
 Deep Q-Learning (DQN): Use the actions and states as input values, and receive the Q-Values as outputs (correlating states to Q-Values).
 
-![agent will have the ideal policy](agent will have the ideal policy.png)
+![agent will have the ideal policy](agent_will_have_the_ideal_policy.png)
 
 Experience Replay enables the agent to remember and reuse past experiences to its benefit.
 
